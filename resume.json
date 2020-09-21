@@ -1,0 +1,238 @@
+{
+  "$schema": "https://json.schemastore.org/resume",
+  "basics": {
+    "name": "Michal Wrobel",
+    "label": "Senior Developer",
+    "email": "sparrovv@gmail.com",
+    "summary": "I'm a polyglot, full-stack developer. I've been working in many projects across different tech stacks and business units, which helped me to develop a good sense of what it takes to deliver a product and lower the maintenance costs by applying best practices. My main focus is on adding value and quick iterations to validate different hypotheses. Since 2017 I'm fully remote and working with teams in Europe and the United States. I'm dedicated, detailed oriented and have a good work ethic.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Krakow",
+      "countryCode": "PL",
+      "region": "Europe"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "wrobelmichal",
+        "url": "https://www.linkedin.com/in/wrobelmichal/"
+      },
+      {
+        "network": "Github",
+        "username": "sparrovv",
+        "url": "https://github.com/sparrovv"
+      },
+      {
+        "network": "Twitter",
+        "username": "sparrovv_",
+        "url": "https://twitter.com/sparrovv_"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company" : "Simply Business",
+      "endDate": "",
+      "highlights": ["Leads management system that uses ML lead scores for prioritization. [Scala, Kafka Streams]", "System to unify customers interactions and expose different behaviour. [Kotlin, Spring Boot]", "CDP selection process and integration", "System to orchestrate business rules and firing text messages. [Scala, Kafak Streams]"],
+      "position": "Staff Data Engineer",
+      "startDate": "2018-07-31",
+      "summary": "I develop and architect various systems in CRM and marketing space. Helping teams to achieve goals",
+      "url": ""
+    },
+    {
+      "name": "Simply Business",
+      "endDate": "2018-07-31",
+      "highlights": ["Identity stitching and sessionzation services [Scala, AKKA-HTTP]", "Project that uses spark and graphx to create state of Customer's interaction graphs. [Spark, Scala]", "Kafka cluster provisioning [cloudformation, puppet]", "CDC and Events pipelines on top of Kafka. Creating client libraries to integrate with kafka. [Scala, Ruby]"],
+      "position": "Senior Data Engineer",
+      "summary": "Working full time as a data engineer. Working with Redhisft, Airflow, Spark, Kafka, scala and ruby. I helped building an identity stitching and sessionization application that were ",
+      "startDate": "2016-04-30",
+      "url": ""
+    },
+    {
+      "company": "Simply Business",
+      "endDate": "2016-03-31",
+      "highlights": ["Integrate Snowplow Framework to collect events data. [Scala, ruby]", "Unified marketing attribution logic[Ruby]", "Created a project to easy import and export data scripts from 3rd parties. [Ruby]"],
+      "position": "Devops / Data Engineer",
+      "startDate": "2015-02-28",
+      "summary": "Working on the deployment platform built on top of AWS, Cloudformation and Puppet. Working closely with data team on provisioning Redshift and Snowplow framework",
+      "url": ""
+    },
+    {
+      "company": "Simply Business",
+      "endDate": "2015-01-31",
+      "highlights": ["Service to generate PDF documents based on HTML templates. Introducing docker containers. [Python]", "Changing core data models, introducing in-flight migration framework. [Ruby]"],
+      "position": "Senior Software Developer and team lead",
+      "summary": "Team lead and active developer",
+      "startDate": "2014-01-31",
+      "url": ""
+    },
+    {
+      "company": "Simply Business",
+      "endDate": "2014-01-31",
+      "position": "Senior Software Developer",
+      "summary": "Working on the core application to generate quotes. Handling complex business cases around policy management",
+      "startDate": "2013-01-31",
+      "url": "https://www.simplybusiness.co.uk/"
+    },
+    {
+      "company": "Lunar Logic Polska",
+      "endDate": "2012-12-31",
+      "highlights": ["Developing new features and maintaining https://kanbanery.com/"],
+      "position": "Software Developer",
+      "startDate": "2010-12-31",
+      "summary": "Ruby, Rails, CoffeeScript Developer.",
+      "url": "https://lunarlogic.io/"
+    },
+    {
+      "company": "iLoop Mobile",
+      "endDate": "2010-11-30",
+      "highlights": ["Working on an integration with analytics platform piwik"],
+      "position": "Software Developer",
+      "startDate": "2009-10-31",
+      "summary": "Rails / PHP Developer",
+      "url": ""
+    },
+    {
+      "company": "FINBET Invest Ltd.",
+      "endDate": "2009-09-30",
+      "highlights": [],
+      "position": "PHP Developer",
+      "startDate": "2009-03-31",
+      "summary": "Designing and creating web applications in Zend Framework, jQuery and PostgreSql.",
+      "url": ""
+    },
+    {
+      "company": "PrimaStudio.pl",
+      "endDate": "2009-03-31",
+      "highlights": [],
+      "position": "Lead PHP Developer",
+      "startDate": "2008-10-31",
+      "summary": "Designing and creating Rich Web Application with PHP - Zend Framework, MySql and jQuery. Creating e-commerce solutions with Magento Platform.",
+      "url": ""
+    },
+    {
+      "company": "Studio Gobi",
+      "endDate": "2008-09-30",
+      "highlights": [],
+      "position": "PHP Developer",
+      "startDate": "2008-06-30",
+      "summary": "Creating small dedicated web application in PHP - code igniter framework, MySql, jQuery, xHtml and CSS.",
+      "url": ""
+    },
+    {
+      "company": "Interactive Agency AdWeb",
+      "endDate": "2008-04-30",
+      "highlights": [],
+      "position": "Developer",
+      "startDate": "2008-01-31",
+      "summary": "PHP/SQL/JS developer",
+      "url": ""
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of Economics in Cracow",
+      "area": "Information Technology",
+      "studyType": "Master's degree",
+      "startDate": "2004-12-31",
+      "endDate": "2009-12-31",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "Self education and courses online",
+      "area": "Engineering",
+      "studyType": "",
+      "startDate": "2010-12-31",
+      "endDate": "",
+      "gpa": "",
+      "courses": [
+        "Confluent Certified Developer for Apache Kafka",
+        "Lightbend Reactive Architecture - Professional",
+        "Functional programming in Scala",
+        "..."
+      ]
+    }
+  ],
+  "awards": [],
+  "publications": [
+    {
+      "name": "Kafka streams and Scala - demo application presentation",
+      "publisher": "",
+      "releaseDate": "2019-09-20",
+      "website": "https://github.com/sparrovv/kafka-streams-examples",
+      "summary": "Talk I gave about kafka streams on scala meetup in London"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Continuous Integration and Deployment",
+      "level": "master",
+      "keywords": ["Docker", "Jenkins", "BASH", "Git", "Linux"]
+    },
+    {
+      "name": "Stream Processing",
+      "level": "advanced",
+      "keywords": ["kafka", "kafka-streams"]
+    },
+    {
+      "name": "Data engineering",
+      "level": "advanced",
+      "keywords": ["SQL", "Airflow", "Spark", "Redshift", "Snowflake", "Kafka"]
+    },
+    {
+      "name": "Software development",
+      "level": "master",
+      "keywords": ["TDD", "BDD", "Best practices", "OOP", "Functional Programming"]
+    },
+    {
+      "name": "Web development",
+      "level": "adept",
+      "keywords": ["Ruby", "Ruby on Rails", "JavaScript"]
+    },
+    {
+      "name": "Scala",
+      "level": "adept",
+      "keywords": ["SBT", "Scala", "AKKA"]
+    },
+    {
+      "name": "Kotlin",
+      "level": "advanced beginner",
+      "keywords": ["Gradle", "spring-boot"]
+    },
+    {
+      "name": "Agile",
+      "level": "advanced",
+      "keywords": ["Working in team", "kanban", "Pair programming"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "pl",
+      "fluency": "Native Speaker"
+    },
+    {
+      "language": "en",
+      "fluency": "Fluent"
+    }
+  ],
+  "interests": [
+    {
+      "name": "sport",
+      "keywords": ["basketball", "gym", "pilates", "cycling", "squash"]
+    },
+    {
+      "name": "Games",
+      "keywords": ["chess", "strategy", "NBA"]
+    }
+  ],
+  "references": [
+    {
+      "name": "Monika Konieczny",
+      "reference": "Michał is an experienced programmer, who not only has a great knowledge but also a desire to constantly expand it. He handles well both in implementing the tasks as well as in analyzing problems and finding effective solutions.\r\n\r\nMichał is a valuable (and very agile/flexible) team member. He can inspire people and share positive energy.\r\n\r\nMichał, thank you for cooperation at iLoop Mobile:) I hope that in future we will have an opportunity to work together!\r\n\r\nTips & Tricks (for the future): Michael has a potential to act as team leader in the team."
+    }
+  ],
+  "projects": []
+}
