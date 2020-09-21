@@ -168,11 +168,6 @@
   ],
   "skills": [
     {
-      "name": "Continuous Integration and Deployment",
-      "level": "master",
-      "keywords": ["Docker", "Jenkins", "BASH", "Git", "Linux"]
-    },
-    {
       "name": "Stream Processing",
       "level": "advanced",
       "keywords": ["kafka", "kafka-streams"]
@@ -203,24 +198,29 @@
       "keywords": ["Gradle", "spring-boot"]
     },
     {
-      "name": "Agile",
+      "name": "Continuous Integration and Deployment",
+      "level": "master",
+      "keywords": ["Docker", "Jenkins", "bash", "Git", "Linux", "Github actions"]
+    },
+    {
+      "name": "Leading a team",
       "level": "advanced",
-      "keywords": ["Working in team", "kanban", "Pair programming"]
+      "keywords": ["Team player", "Kanban", "Pair programming", "GTD", "Prioritization", "Refinements", "Presentations"]
     }
   ],
   "languages": [
     {
-      "language": "pl",
+      "language": "Polish",
       "fluency": "Native Speaker"
     },
     {
-      "language": "en",
+      "language": "English",
       "fluency": "Fluent"
     }
   ],
   "interests": [
     {
-      "name": "sport",
+      "name": "Sport",
       "keywords": ["basketball", "gym", "pilates", "cycling", "squash"]
     },
     {
@@ -234,5 +234,14 @@
       "reference": "Michał is an experienced programmer, who not only has a great knowledge but also a desire to constantly expand it. He handles well both in implementing the tasks as well as in analyzing problems and finding effective solutions.\r\n\r\nMichał is a valuable (and very agile/flexible) team member. He can inspire people and share positive energy.\r\n\r\nMichał, thank you for cooperation at iLoop Mobile:) I hope that in future we will have an opportunity to work together!\r\n\r\nTips & Tricks (for the future): Michael has a potential to act as team leader in the team."
     }
   ],
-  "projects": []
+  "projects": [{
+    "name": "lvlapp.com",
+    "description": "An application to level up your English through listening, typing and repetition",
+    "keywords": [
+      "Rails", "AngularJS", "Javascript"
+    ],
+    "startDate": "2015-01-01",
+    "endDate": "2016-08-24",
+    "url": "https://github.com/sparrovv/lvlapp.com"
+  }]
 }
