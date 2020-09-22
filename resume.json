@@ -2,9 +2,9 @@
   "$schema": "https://json.schemastore.org/resume",
   "basics": {
     "name": "Michal Wrobel",
-    "label": "Senior Developer",
+    "label": "Senior [data] Developer",
     "email": "sparrovv@gmail.com",
-    "summary": "I'm a polyglot, full-stack developer. I've been working in many projects across different tech stacks and business units, which helped me to develop a good sense of what it takes to deliver a product and lower the maintenance costs by applying best practices. My main focus is on adding value and quick iterations to validate different hypotheses. Since 2017 I'm fully remote and working with teams in Europe and the United States. I'm dedicated, detailed oriented and have a good work ethic.",
+    "summary": "I'm a polyglot, full-stack developer with experience leading small teams. I've been working in many projects across different tech stacks and business units, which helped me to develop a good sense of what it takes to deliver a product and lower the maintenance costs. My focus is on adding value through quick iterations to validate different hypotheses. Since 2017 I'm fully remote and working with global teams in the UK and the United States. I'm organized, dedicated and easygoing.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -14,14 +14,19 @@
     },
     "profiles": [
       {
+        "network": "Github",
+        "username": "sparrovv",
+        "url": "https://github.com/sparrovv"
+      },
+      {
         "network": "LinkedIn",
         "username": "wrobelmichal",
         "url": "https://www.linkedin.com/in/wrobelmichal/"
       },
       {
-        "network": "Github",
+        "network": "StackOverflow",
         "username": "sparrovv",
-        "url": "https://github.com/sparrovv"
+        "url": "https://stackoverflow.com/users/437277/sparrovv"
       },
       {
         "network": "Twitter",
@@ -34,16 +39,16 @@
     {
       "company" : "Simply Business",
       "endDate": "",
-      "highlights": ["Leads management system that uses ML lead scores for prioritization. [Scala, Kafka Streams]", "System to unify customers interactions and expose different behaviour. [Kotlin, Spring Boot]", "CDP selection process and integration", "System to orchestrate business rules and firing text messages. [Scala, Kafak Streams]"],
+      "highlights": ["Leads management system that uses ML lead scores for prioritization that helped significantly to improve return on calls. [Scala, Kafka Streams, Docker]", "System to unify customers interactions and expose different behaviour. [Kotlin, Spring Boot]", "CDP selection process and integration", "System to orchestrate business rules and firing text messages. [Scala, Kafak Streams]"],
       "position": "Staff Data Engineer",
       "startDate": "2018-07-31",
       "summary": "I develop and architect various systems in CRM and marketing space. Helping teams to achieve goals",
-      "url": ""
+      "url": "https://www.simplybusiness.co.uk/"
     },
     {
-      "name": "Simply Business",
+      "company": "Simply Business",
       "endDate": "2018-07-31",
-      "highlights": ["Identity stitching and sessionzation services [Scala, AKKA-HTTP]", "Project that uses spark and graphx to create state of Customer's interaction graphs. [Spark, Scala]", "Kafka cluster provisioning [cloudformation, puppet]", "CDC and Events pipelines on top of Kafka. Creating client libraries to integrate with kafka. [Scala, Ruby]"],
+      "highlights": ["Identity stitching and sessionzation services to unify analysis of unauthenticated users [Scala, Spark, AKKA-HTTP]", "Provision Kafka cluster for production use. [cloudformation, puppet]", "Architect and deliver CDC and Events pipelines on top of Kafka. Creating client libraries to integrate with kafka. [Scala, Ruby, AWS services]"],
       "position": "Senior Data Engineer",
       "summary": "Working full time as a data engineer. Working with Redhisft, Airflow, Spark, Kafka, scala and ruby. I helped building an identity stitching and sessionization application that were ",
       "startDate": "2016-04-30",
@@ -52,7 +57,7 @@
     {
       "company": "Simply Business",
       "endDate": "2016-03-31",
-      "highlights": ["Integrate Snowplow Framework to collect events data. [Scala, ruby]", "Unified marketing attribution logic[Ruby]", "Created a project to easy import and export data scripts from 3rd parties. [Ruby]"],
+      "highlights": ["Integrating Snowplow Framework to collect data. [Scala, Ruby, Redshift, AWS EMR]", "Architecting and maintaining project for data imports and exports. [Ruby, S3, Redshift]"],
       "position": "Devops / Data Engineer",
       "startDate": "2015-02-28",
       "summary": "Working on the deployment platform built on top of AWS, Cloudformation and Puppet. Working closely with data team on provisioning Redshift and Snowplow framework",
@@ -61,9 +66,9 @@
     {
       "company": "Simply Business",
       "endDate": "2015-01-31",
-      "highlights": ["Service to generate PDF documents based on HTML templates. Introducing docker containers. [Python]", "Changing core data models, introducing in-flight migration framework. [Ruby]"],
-      "position": "Senior Software Developer and team lead",
-      "summary": "Team lead and active developer",
+      "highlights": ["Service to generate PDF documents from HTML templates. Introducing docker containers. [Python]", "Changing core data models, introducing in-flight migration framework. [Ruby, Rails]"],
+      "position": "Senior Software Developer and a Team lead",
+      "summary": "Team lead and active developer. Leading a small team of developers to create a new insurance product",
       "startDate": "2014-01-31",
       "url": ""
     },
@@ -71,7 +76,7 @@
       "company": "Simply Business",
       "endDate": "2014-01-31",
       "position": "Senior Software Developer",
-      "summary": "Working on the core application to generate quotes. Handling complex business cases around policy management",
+      "summary": "Handling complex business cases around policy management and policy renewal. Working with Ruby, Rails, Rspec and Cucumber",
       "startDate": "2013-01-31",
       "url": "https://www.simplybusiness.co.uk/"
     },
@@ -170,12 +175,12 @@
     {
       "name": "Stream Processing",
       "level": "advanced",
-      "keywords": ["kafka", "kafka-streams"]
+      "keywords": ["Kafka", "Kafka streams", "Schema registry", "Spark streaming"]
     },
     {
       "name": "Data engineering",
       "level": "advanced",
-      "keywords": ["SQL", "Airflow", "Spark", "Redshift", "Snowflake", "Kafka"]
+      "keywords": ["SQL", "Airflow", "Spark", "Redshift", "Snowflake", "Kafka", "DBT"]
     },
     {
       "name": "Software development",
@@ -188,6 +193,16 @@
       "keywords": ["Ruby", "Ruby on Rails", "JavaScript"]
     },
     {
+      "name": "Continuous Integration and Deployment",
+      "level": "master",
+      "keywords": ["Docker", "Jenkins", "bash", "Git", "Linux", "Github actions", "Datadog"]
+    },
+    {
+      "name": "Leading a team",
+      "level": "advanced",
+      "keywords": ["Team player", "Kanban", "Pair programming", "GTD", "Prioritization", "Refinements", "Presentations"]
+    },
+    {
       "name": "Scala",
       "level": "adept",
       "keywords": ["SBT", "Scala", "AKKA"]
@@ -196,16 +211,6 @@
       "name": "Kotlin",
       "level": "advanced beginner",
       "keywords": ["Gradle", "spring-boot"]
-    },
-    {
-      "name": "Continuous Integration and Deployment",
-      "level": "master",
-      "keywords": ["Docker", "Jenkins", "bash", "Git", "Linux", "Github actions"]
-    },
-    {
-      "name": "Leading a team",
-      "level": "advanced",
-      "keywords": ["Team player", "Kanban", "Pair programming", "GTD", "Prioritization", "Refinements", "Presentations"]
     }
   ],
   "languages": [
@@ -236,7 +241,7 @@
   ],
   "projects": [{
     "name": "lvlapp.com",
-    "description": "An application to level up your English through listening, typing and repetition",
+    "description": "An application to level up your English through listening, typing and repetition. Not live anymore, but this is how it looked: https://www.youtube.com/watch?v=q5xFVTlOqjo&t",
     "keywords": [
       "Rails", "AngularJS", "Javascript"
     ],
