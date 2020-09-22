@@ -1,8 +1,7 @@
 {
-  "$schema": "https://json.schemastore.org/resume",
   "basics": {
     "name": "Michal Wrobel",
-    "label": "Senior [data] Developer",
+    "label": "Senior [data, *] Developer",
     "email": "sparrovv@gmail.com",
     "summary": "I'm a polyglot, full-stack developer with experience leading small teams. I've been working in many projects across different tech stacks and business units, which helped me to develop a good sense of what it takes to deliver a product and lower the maintenance costs. My focus is on adding value through quick iterations to validate different hypotheses. Since 2017 I'm fully remote and working with global teams in the UK and the United States. I'm organized, dedicated and easygoing.",
     "location": {
@@ -38,11 +37,10 @@
   "work": [
     {
       "company" : "Simply Business",
-      "endDate": "",
-      "highlights": ["Leads management system that uses ML lead scores for prioritization that helped significantly to improve return on calls. [Scala, Kafka Streams, Docker]", "System to unify customers interactions and expose different behaviour. [Kotlin, Spring Boot]", "CDP selection process and integration", "System to orchestrate business rules and firing text messages. [Scala, Kafak Streams]"],
+      "highlights": ["Leads management system that uses ML lead scores to prioritize calls. [Scala, Kafka Streams, Docker]", "API service to expose customer's behavioural data. [Kotlin, Spring Boot, Open API]", "SMS rules service that enabled quick AB tests and sending texts. [Scala, Kafka Streams]"],
       "position": "Staff Data Engineer",
       "startDate": "2018-07-31",
-      "summary": "I develop and architect various systems in CRM and marketing space. Helping teams to achieve goals",
+      "summary": "I develop and architect various systems in Data and CRM space. I help teams to achieve tech and business objectives",
       "url": "https://www.simplybusiness.co.uk/"
     },
     {
@@ -50,7 +48,7 @@
       "endDate": "2018-07-31",
       "highlights": ["Identity stitching and sessionzation services to unify analysis of unauthenticated users [Scala, Spark, AKKA-HTTP]", "Provision Kafka cluster for production use. [cloudformation, puppet]", "Architect and deliver CDC and Events pipelines on top of Kafka. Creating client libraries to integrate with kafka. [Scala, Ruby, AWS services]"],
       "position": "Senior Data Engineer",
-      "summary": "Working full time as a data engineer. Working with Redhisft, Airflow, Spark, Kafka, scala and ruby. I helped building an identity stitching and sessionization application that were ",
+      "summary": "Working full time as an engineer in the data team. Working with Redshift, Airflow, Spark, Kafka, Scala and Ruby.",
       "startDate": "2016-04-30",
       "url": ""
     },
@@ -151,7 +149,6 @@
       "area": "Engineering",
       "studyType": "",
       "startDate": "2010-12-31",
-      "endDate": "",
       "gpa": "",
       "courses": [
         "Confluent Certified Developer for Apache Kafka",
@@ -175,22 +172,22 @@
     {
       "name": "Stream Processing",
       "level": "advanced",
-      "keywords": ["Kafka", "Kafka streams", "Schema registry", "Spark streaming"]
+      "keywords": ["Kafka", "Scala", "Kafka streams", "Schema registry", "Spark streaming"]
     },
     {
       "name": "Data engineering",
       "level": "advanced",
-      "keywords": ["SQL", "Airflow", "Spark", "Redshift", "Snowflake", "Kafka", "DBT"]
+      "keywords": ["SQL", "Scala", "Airflow", "Spark", "Redshift", "Snowflake", "Kafka", "DBT"]
     },
     {
-      "name": "Software development",
+      "name": "Software development practices",
       "level": "master",
       "keywords": ["TDD", "BDD", "Best practices", "OOP", "Functional Programming"]
     },
     {
       "name": "Web development",
       "level": "adept",
-      "keywords": ["Ruby", "Ruby on Rails", "JavaScript"]
+      "keywords": ["Ruby", "Ruby on Rails", "Sinatra", "JavaScript", "AngualrJS"]
     },
     {
       "name": "Continuous Integration and Deployment",
@@ -200,7 +197,7 @@
     {
       "name": "Leading a team",
       "level": "advanced",
-      "keywords": ["Team player", "Kanban", "Pair programming", "GTD", "Prioritization", "Refinements", "Presentations"]
+      "keywords": ["Kanban", "Pair programming", "Prioritization", "Refinements", "Presentations"]
     },
     {
       "name": "Scala",
