@@ -1,9 +1,9 @@
 {
   "basics": {
     "name": "Michal Wrobel",
-    "label": "Senior [data, *] Developer",
+    "label": "Senior (Data|Backend|.*)? Developer",
     "email": "sparrovv@gmail.com",
-    "summary": "I'm a polyglot, full-stack developer with experience leading small teams. I've been working in many projects across different tech stacks and business units, which helped me to develop a good sense of what it takes to deliver a product and lower the maintenance costs. My focus is on adding value through quick iterations to validate different hypotheses. Since 2017 I'm fully remote and working with global teams in the UK and the United States. I'm organized, dedicated and easygoing.",
+    "summary": "I'm a polyglot, full-stack developer with experience leading small teams. I've been working in many projects across different tech stacks and business units. That helped me to develop a good sense of what it takes to deliver a product and lower the maintenance costs. My focus is on adding value through quick iterations and validate different hypotheses. Since 2017 I'm fully remote and working with global teams in the UK and the United States. I'm organized, dedicated and easygoing.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -23,7 +23,7 @@
         "url": "https://www.linkedin.com/in/wrobelmichal/"
       },
       {
-        "network": "StackOverflow",
+        "network": "Stack Overflow",
         "username": "sparrovv",
         "url": "https://stackoverflow.com/users/437277/sparrovv"
       },
@@ -90,10 +90,10 @@
     {
       "company": "iLoop Mobile",
       "endDate": "2010-11-30",
-      "highlights": ["Working on an integration with analytics platform piwik"],
+      "highlights": ["I worked on a mobile tracking analytics platform that used piwik analytics suite"],
       "position": "Software Developer",
       "startDate": "2009-10-31",
-      "summary": "Rails / PHP Developer",
+      "summary": "PHP Developer / Ruby on Rails developer",
       "url": ""
     },
     {
@@ -102,42 +102,31 @@
       "highlights": [],
       "position": "PHP Developer",
       "startDate": "2009-03-31",
-      "summary": "Designing and creating web applications in Zend Framework, jQuery and PostgreSql.",
+      "summary": "Designing and creating web applications in Zend Framework, jQuery and PostgreSql",
       "url": ""
     },
     {
-      "company": "PrimaStudio.pl",
+      "company": "PrimaStudio, Studio Gobi, AdWeb",
       "endDate": "2009-03-31",
       "highlights": [],
-      "position": "Lead PHP Developer",
-      "startDate": "2008-10-31",
-      "summary": "Designing and creating Rich Web Application with PHP - Zend Framework, MySql and jQuery. Creating e-commerce solutions with Magento Platform.",
-      "url": ""
-    },
-    {
-      "company": "Studio Gobi",
-      "endDate": "2008-09-30",
-      "highlights": [],
       "position": "PHP Developer",
-      "startDate": "2008-06-30",
-      "summary": "Creating small dedicated web application in PHP - code igniter framework, MySql, jQuery, xHtml and CSS.",
-      "url": ""
-    },
-    {
-      "company": "Interactive Agency AdWeb",
-      "endDate": "2008-04-30",
-      "highlights": [],
-      "position": "Developer",
       "startDate": "2008-01-31",
-      "summary": "PHP/SQL/JS developer",
+      "summary": "During my studies I was working as a PHP developer in a few small web interactive agencies. At the time I was using: Zend Framework, CodeIgniter, MySql, jQuery. I used e-commerce Magento Platform to create dedicated e-stores.",
       "url": ""
     }
   ],
-  "volunteer": [],
+  "volunteer": [{
+    "organization": "codebar.io",
+    "position": "Coach",
+    "website": "https://codebar.io/",
+    "startDate": "2014-02-01",
+    "endDate": "2014-06-01",
+    "summary": "I helped members of codebar.io to learn programming"
+  }],
   "education": [
     {
-      "institution": "University of Economics in Cracow",
-      "area": "Information Technology",
+      "institution": "Cracow University of Economics",
+      "area": "Informatics and Econometrics",
       "studyType": "Master's degree",
       "startDate": "2004-12-31",
       "endDate": "2009-12-31",
