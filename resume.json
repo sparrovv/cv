@@ -37,7 +37,7 @@
   "work": [
     {
       "company" : "Simply Business",
-      "highlights": ["Leads management system that uses ML lead scores to prioritize calls. [Scala, Kafka Streams, Docker]", "API service to expose customer's behavioural data. [Kotlin, Spring Boot, Open API]", "SMS rules service that enabled quick AB tests and sending texts. [Scala, Kafka Streams]"],
+      "highlights": ["Leads management system that uses ML lead scoring events to prioritize calls. [Scala, Kafka Streams, Docker]", "API service to expose customer's behavioural data. [Kotlin, Spring Boot, Open API]", "SMS rules service that enabled quick AB tests and sending texts. [Scala, Kafka Streams]", "Leading CDP integration project to integrate all customers related data. [Kotlin, Spring Boot, AWS, Ruby]", "Supporting and mentoring team members"],
       "position": "Staff Data Engineer",
       "startDate": "2018-07-31",
       "summary": "I develop and architect various systems in Data and CRM space. I help teams to achieve tech and business objectives",
@@ -150,6 +150,13 @@
   "awards": [],
   "publications": [
     {
+      "name": "Not complex event-driven applications with kafka streams",
+      "publisher": "",
+      "releaseDate": "2021-02-20",
+      "website": "https://www.youtube.com/watch?v=U8TrZOzBLPc",
+      "summary": "Talk I gave about event-drive applications with kafka streams on bigdata conference in Warsaw"
+    }
+    {
       "name": "Kafka streams and Scala - demo application presentation",
       "publisher": "",
       "releaseDate": "2019-09-20",
@@ -191,12 +198,12 @@
     {
       "name": "Scala",
       "level": "adept",
-      "keywords": ["SBT", "Scala", "AKKA"]
+      "keywords": ["SBT", "Scala", "Akka actors", "Akka HTTP"]
     },
     {
       "name": "Kotlin",
       "level": "advanced beginner",
-      "keywords": ["Gradle", "spring-boot"]
+      "keywords": ["Gradle", "Spring boot"]
     }
   ],
   "languages": [
@@ -217,6 +224,10 @@
     {
       "name": "Games",
       "keywords": ["chess", "strategy", "NBA"]
+    },
+    {
+      "name": "Programming",
+      "keywords": ["coding fun things"]
     }
   ],
   "references": [
