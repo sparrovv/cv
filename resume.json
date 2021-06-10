@@ -154,8 +154,8 @@
       "publisher": "",
       "releaseDate": "2021-02-20",
       "website": "https://www.youtube.com/watch?v=U8TrZOzBLPc",
-      "summary": "Talk I gave about event-drive applications with kafka streams on bigdata conference in Warsaw"
-    }
+      "summary": "Talk I gave about on bigdata conference in Warsaw (https://bigdatatechwarsaw.eu/)"
+    },
     {
       "name": "Kafka streams and Scala - demo application presentation",
       "publisher": "",
@@ -178,7 +178,7 @@
     {
       "name": "Software development practices",
       "level": "master",
-      "keywords": ["TDD", "BDD", "Best practices", "OOP", "Functional Programming"]
+      "keywords": ["DDD", "Best practices", "OOP", "Functional Programming", "TDD", "BDD"]
     },
     {
       "name": "Web development",
@@ -223,7 +223,7 @@
     },
     {
       "name": "Games",
-      "keywords": ["chess", "strategy", "NBA"]
+      "keywords": ["chess", "strategy"]
     },
     {
       "name": "Programming",
